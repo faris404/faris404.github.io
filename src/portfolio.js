@@ -17,7 +17,7 @@ const greeting = {
     "A passionate Backend Developer 🚀 having an experience of building RESTful APIs with NodeJS / Python / MySQL / express.js / flask and some other libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1pmfLxCYDjJFAW9B6MdZAEHMc9HneOeHe/view?usp=sharing",
+    "https://drive.google.com/file/d/12PFyoZ-pAO14kw-zed8WVRMsV53wglR4/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
