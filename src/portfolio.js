@@ -133,7 +133,7 @@ const educationInfo = {
       schoolName: "Software Trainee",
       // logo: require("./assets/images/harvardLogo.png"),
       subHeader: "@Xanthon E-Solutions",
-      duration: "July 2020 - Des 2020",
+      duration: "July 2020 - Dec 2020",
       // desc: "Backend developer with ",
       descBullets: [
        
