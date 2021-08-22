@@ -11,7 +11,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Faris",
+  username: "faris404",
   title: "Hi all, I'm Faris",
   subTitle: emoji(
     "A passionate Backend Developer 🚀 having an experience of building RESTful APIs with NodeJS / Python / MySQL / express.js / flask and some other libraries and frameworks."
@@ -31,7 +31,7 @@ const socialMediaLinks = {
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
-  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  stackoverflow: "https://stackoverflow.com/users/14280980/faris404",
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
@@ -46,39 +46,41 @@ const skillsSection = {
       "⚡ Develop highly efficient, scalable and seccure APIs "
     ),
     emoji("⚡ Contributing in open source projects"),
-    emoji("⚡ Learning new stuffs like MongoDB")
+    emoji("⚡ Learning new stuffs like FastAPI and MongoDB ")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
+    {
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "sql-database",
+      fontAwesomeClassname: "fas fa-database"
+    },
     
+  
+    {
+      skillName: "git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
+    },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
 
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "git",
-      fontAwesomeClassname: "fab fa-git"
-    },
-    {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
-    {
-      skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
-    },
+
 
     // {
     //   skillName: "docker",

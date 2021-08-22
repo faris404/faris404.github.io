@@ -28,8 +28,9 @@
 
 .contact-detail:hover,
 .contact-detail-email:hover {
-  color: $textColor;
-  text-shadow: 2px 1px 2px $contactDetailHoverTS;
+  color: rgb(32, 172, 253);
+  // color: $textColor;
+  // text-shadow: 2px 1px 2px $contactDetailHoverTS;
   transition: all 0.3s;
 }
 
