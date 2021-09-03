@@ -16,22 +16,28 @@ const greeting = {
   subTitle: emoji(
     "A passionate Backend Developer 🚀 having an experience of building RESTful APIs with NodeJS / Python / MySQL / express.js / flask and some other libraries and frameworks."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/12PFyoZ-pAO14kw-zed8WVRMsV53wglR4/view?usp=sharing",
+  resumeLink:"https://drive.google.com/file/d/1OaZCjaszmyTwfVhQN2n-xeLbHhUNDL9i/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
+// "https://drive.google.com/file/d/12PFyoZ-pAO14kw-zed8WVRMsV53wglR4/view?usp=sharing",
 
 // Social Media Links
 
 const socialMediaLinks = {
+  gmail: "faris.um2000@gmail.com",
   github: "https://github.com/faris404",
   linkedin: "https://www.linkedin.com/in/faris404/",
-  // gmail: "faris.um2000@gmail.com",
+
+  twitter: "https://twitter.com/_faris404",
+  stackoverflow: "https://stackoverflow.com/users/14280980/faris404",
+  
   instagram:'https://www.instagram.com/_faris404',
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/14280980/faris404",
+  
+  
+
   // Instagram and Twitter are also supported in the links!
   display: true // Set true to display this section, defaults to false
 };
