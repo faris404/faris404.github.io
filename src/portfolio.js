@@ -16,7 +16,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Backend Developer 🚀 having an experience of building RESTful APIs with NodeJS / Python / MySQL / express.js / flask and some other libraries and frameworks."
   ),
-  resumeLink:"https://drive.google.com/file/d/1OaZCjaszmyTwfVhQN2n-xeLbHhUNDL9i/view?usp=sharing",
+  resumeLink:"https://drive.google.com/file/d/1myzhmeEuRYspKsjDE8AFvLuPzwgwa9qh/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 // "https://drive.google.com/file/d/12PFyoZ-pAO14kw-zed8WVRMsV53wglR4/view?usp=sharing",
@@ -268,31 +268,48 @@ const achievementSection = {
       ]
     },
     {
-      title: "Make-Sure",
-      subtitle: "A python package for data validation",
-      image: require("./assets/images/validation.png"),
+      title: "VChat",
+      subtitle: "A video chatting application using Python, Flask,SocketIO and WebRTC.",
+      image: require("./assets/images/vchat.png"),
       footerLink: [
         {
-          name: "Github",
-          url: "https://github.com/faris404/make-sure"
+          name: "Vchat",
+          url: "https://virtualchatapp.herokuapp.com/"
         },
         {
-          name: "Pypi",
-          url: "https://pypi.org/project/makesure/"
+          name: "Github",
+          url: "https://github.com/faris404/vchat"
         }
       ]
     },
     {
-      title: "Kickoff",
-      subtitle: "An online turf booking and managing application using NodeJS, React Native,MySQL.",
-      image: require("./assets/images/kickoff.png"),
+      title: "Makesure",
+      subtitle: "A python package for data validation",
+      image: require("./assets/images/validation.png"),
       footerLink: [
-        // {
-        //   name: "Github",
-        //   url: "https://pakistan-olx-1.firebaseapp.com/"
-        // }
+        {
+          name: "Pypi",
+          url: "https://pypi.org/project/makesure/"
+        },
+        {
+          name: "Github",
+          url: "https://github.com/faris404/make-sure"
+        }
+        
       ]
     },
+    // {
+    //   title: "Kickoff",
+    //   subtitle: "An online turf booking and managing application using NodeJS, React Native,MySQL.",
+    //   image: require("./assets/images/kickoff.png"),
+    //   footerLink: [
+    //     // {
+    //     //   name: "Github",
+    //     //   url: "https://pakistan-olx-1.firebaseapp.com/"
+    //     // }
+    //   ]
+    // },
+
     
 
 
